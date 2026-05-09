@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import data, { TokenDataPoint } from './token-data'
+import data from './token-data'
 
 const easeOut = [0.25, 0.1, 0.25, 1] as const
 
